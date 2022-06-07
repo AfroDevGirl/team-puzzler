@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # team-puzzler
+
 A team building game that encourages communication and collaboration
-=======
+
 # Remix Blues Stack
 
 ![The Remix Blues Stack](https://repository-images.githubusercontent.com/461012689/37d5bd8b-fa9c-4ab0-893c-f0a199d5012d)
@@ -217,4 +217,3 @@ We use [Prettier](https://prettier.io/) for auto-formatting in this project. It'
   - The other user won't be able to see the screen at all, but is able to use their cursor.
   - When completed a new puzzle will be created, and the game roles will switch. After each person takes a turn in each role, the game pauses, timing is revealed, the created images are revealed, and users are able to leave the room or start a new game.
   - When the game ends a small survey is sent asking to rate how they think it went. These results are anonymously sent to the person who created the room.
->>>>>>> 01ab147 (Add remix skeleton)
